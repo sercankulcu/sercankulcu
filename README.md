@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sercankulcu
 - 👀 I’m interested in Java, C/C++ programming, wireless communication
-- 🌱 I’m currently learning Operating systems consepts
+- 🌱 I’m currently learning Operating systems concepts
 - 💞️ I’m looking to collaborate on Java example codes
 - 📫 How to reach me via https://sercankulcu.github.io/
 
