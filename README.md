@@ -11,9 +11,8 @@ I'm a passionate developer with a love for coding, learning, and building innova
 - 💞️ Looking to collaborate on **Java example codes** and open-source projects.
 - 🎮 Building simple, fun JavaScript games at [dorukdayim](https://dorukdayim.netlify.app/).
 - 🌍 Showcasing my work through my [Portfolio](https://sercankulcu.github.io/).
-
-You can sponsor my work by donating via:
-<a href="https://www.buymeacoffee.com/sercankulc"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sercankulc&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+- You can sponsor my work by donating via:
+- <a href="https://www.buymeacoffee.com/sercankulc"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sercankulc&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 ## 🛠️ Skills
 - **Languages**: Java, C, C++, JavaScript, Python
