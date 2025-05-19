@@ -1,19 +1,15 @@
 
 # 👋 Hi, I'm Sercan Kulcu
 
-## 🚀 About Me
 - 👀 I’m interested in Java, C/C++ programming, wireless communication
 - 🌱 I’m currently learning Operating systems concepts
 - 💞️ I’m looking to collaborate on Java example codes
 - 📫 How to reach me https://sercankulcu.github.io/
 - 🌟 I'm building simple js fun games at https://dorukdayim.netlify.app/
-- 📚 Always learning and experimenting with new tools and frameworks.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sercankulcu&show_icons=true&theme=radical)](https://github.com/sercankulcu)  
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=sercankulcu.sercankulcu)
 
 Explore more of my work in my [Repositories](https://github.com/sercankulcu?tab=repositories)!
 
-## 📬 Get in Touch
-- 🌐 Visit my [Portfolio](https://sercankulcu.github.io) for more details.
-- 📝 Check out my [GitHub Contributions](https://github.com/sercankulcu) to see what I'm working on.
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="sercankulc" data-description="Support me on Buy me a coffee!" data-message="Thank you for visiting!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
